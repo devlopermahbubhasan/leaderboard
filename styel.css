@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.clear-fix::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+.margin-left{
+    margin-left: auto;
+}
+.navbar img{
+    Width: 40.42px;
+    Height: 51px;  
+    float: left; 
+}
+.navbar h3{
+    margin-left: 55px ;
+    line-height: 44px;
+    color: white;
+}
+.nav-link .profile{
+    width: 51px;
+    height: 51px;
+    
+}
+.nav-item{
+    line-height: 51px;
+    padding: 0 17px;
+    
+}
+.background{
+    background-color: #562EFF;
+}
+.nav-link{
+    color: white;
+}
+.player-liest img{
+    width: 56px;
+    height: 56px;
+    float: left;
+    margin-bottom: 30px;
+}
+.player-liest{
+    border-bottom: 2px solid #D1D1D1;
+}
+.player-liest h4{
+    margin-top: 15px;
+    margin-left: 66px;
+}
+.top-player{
+    background-color: white;
+    margin-top: 60px;
+    
+}
+.top-player h3{
+    margin-bottom: 40px;
+    color: #562EFF;
+}
+
+.blog-conent img{
+    width: 177px;
+    height: 119px;
+    float: left;
+    margin-right: 20px;
+}
+.contet-text h3{
+    font-size: 20px;
+    
+}
+
+.top-blog{
+    background-color: white;
+    margin-top: 60px;
+    
+}
+
+
+.blog-liest img{
+    width: 177px;
+    height: 119px;
+    float: left;
+    margin-bottom: 30px;
+    margin-right: 22px;
+}
+.blog-liest{
+    border-bottom: 2px solid #D1D1D1;
+}
+
+.card img{
+    width: 287px;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border: none;
+}
+
